@@ -1,7 +1,7 @@
 package sample;
 
 public class Configs {
-    protected String server = "localhost";
+    protected String host = "localhost";
     protected String db = "postgres";
     protected String port = "5432";
     protected String username = "postgres";

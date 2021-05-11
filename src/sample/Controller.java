@@ -24,9 +24,6 @@ public class Controller {
     @FXML
     private Button addNewNoteButton;
 
-    public Controller() {
-    }
-
     @FXML
     void initialize() {
         addNewNoteButton.setOnAction(event -> {
